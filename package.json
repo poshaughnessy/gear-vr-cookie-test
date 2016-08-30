@@ -1,0 +1,15 @@
+{
+  "name": "gear-vr-cookie",
+  "version": "1.0.0",
+  "description": "Gear VR cookie test",
+  "dependencies": {
+    "three": "^0.80.1",
+    "webvr-boilerplate": "^0.4.6",
+    "webvr-polyfill": "^0.9.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
